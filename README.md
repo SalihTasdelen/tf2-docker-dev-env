@@ -7,3 +7,4 @@ This is a docker development environment for working with Tensorflow 2.
 
 ## Jupyter Notebook
 Uncomment the `CMD` line in the Dockerfile in order to start Jupyter Notebook.
+Instead of hostname one should userthe hostname of the container.
